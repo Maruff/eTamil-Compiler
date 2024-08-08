@@ -1,3 +1,4 @@
+
 ---
 
 ## Outline: Compiler Design with a Case Study on eTamil Using Rust and LLVM
@@ -137,4 +138,3 @@ This updated outline includes specific sections where Rust and LLVM will be used
 1. **Approval of the Outline**: Review the outline and suggest any changes or additions.
 2. **Chapter-by-Chapter Writing**: We can proceed by writing each chapter in sequence, ensuring quality and coherence.
 3. **Incorporate Feedback**: Periodically review and provide feedback to refine the content.
-
